@@ -1,0 +1,4 @@
+<launch>
+	<param name="name" value="Hello, world!"/>
+	<node pkg="parameters_test" name="param_first" type="param_first" output="screen"/>
+</launch>
